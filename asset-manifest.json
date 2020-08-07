@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/reseller/static/css/main.4291970d.chunk.css",
-    "main.js": "/reseller/static/js/main.6e6e5249.chunk.js",
-    "main.js.map": "/reseller/static/js/main.6e6e5249.chunk.js.map",
+    "main.css": "/reseller/static/css/main.e7b08379.chunk.css",
+    "main.js": "/reseller/static/js/main.3b790c2a.chunk.js",
+    "main.js.map": "/reseller/static/js/main.3b790c2a.chunk.js.map",
     "runtime-main.js": "/reseller/static/js/runtime-main.68945eaa.js",
     "runtime-main.js.map": "/reseller/static/js/runtime-main.68945eaa.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/reseller/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.721b584e.chunk.js": "/reseller/static/js/2.721b584e.chunk.js",
-    "static/js/2.721b584e.chunk.js.map": "/reseller/static/js/2.721b584e.chunk.js.map",
+    "static/css/2.657a9866.chunk.css": "/reseller/static/css/2.657a9866.chunk.css",
+    "static/js/2.5e9e6e58.chunk.js": "/reseller/static/js/2.5e9e6e58.chunk.js",
+    "static/js/2.5e9e6e58.chunk.js.map": "/reseller/static/js/2.5e9e6e58.chunk.js.map",
     "index.html": "/reseller/index.html",
-    "precache-manifest.a61e929cfe6fcef42739342c181610ba.js": "/reseller/precache-manifest.a61e929cfe6fcef42739342c181610ba.js",
+    "precache-manifest.e7f2adf44ca2f008d7e9d3070cfe0c10.js": "/reseller/precache-manifest.e7f2adf44ca2f008d7e9d3070cfe0c10.js",
     "service-worker.js": "/reseller/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/reseller/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.4291970d.chunk.css.map": "/reseller/static/css/main.4291970d.chunk.css.map",
-    "static/js/2.721b584e.chunk.js.LICENSE.txt": "/reseller/static/js/2.721b584e.chunk.js.LICENSE.txt",
+    "static/css/2.657a9866.chunk.css.map": "/reseller/static/css/2.657a9866.chunk.css.map",
+    "static/css/main.e7b08379.chunk.css.map": "/reseller/static/css/main.e7b08379.chunk.css.map",
+    "static/js/2.5e9e6e58.chunk.js.LICENSE.txt": "/reseller/static/js/2.5e9e6e58.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/reseller/static/media/Logo.e82b5693.png",
     "static/media/colour.jpg": "/reseller/static/media/colour.be16282c.jpg",
     "static/media/homeOffice.jpg": "/reseller/static/media/homeOffice.82a3fad5.jpg",
     "static/media/logo.svg": "/reseller/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/reseller/static/media/slick.f97e3bbf.svg",
     "static/media/wifi.png": "/reseller/static/media/wifi.a7628bb1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.68945eaa.js",
-    "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.721b584e.chunk.js",
-    "static/css/main.4291970d.chunk.css",
-    "static/js/main.6e6e5249.chunk.js"
+    "static/css/2.657a9866.chunk.css",
+    "static/js/2.5e9e6e58.chunk.js",
+    "static/css/main.e7b08379.chunk.css",
+    "static/js/main.3b790c2a.chunk.js"
   ]
 }
