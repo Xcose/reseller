@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reseller/static/css/main.ea628ae5.chunk.css",
-    "main.js": "/reseller/static/js/main.56841ede.chunk.js",
-    "main.js.map": "/reseller/static/js/main.56841ede.chunk.js.map",
+    "main.css": "/reseller/static/css/main.6afbc71f.chunk.css",
+    "main.js": "/reseller/static/js/main.f5a52b5c.chunk.js",
+    "main.js.map": "/reseller/static/js/main.f5a52b5c.chunk.js.map",
     "runtime-main.js": "/reseller/static/js/runtime-main.68945eaa.js",
     "runtime-main.js.map": "/reseller/static/js/runtime-main.68945eaa.js.map",
     "static/css/2.657a9866.chunk.css": "/reseller/static/css/2.657a9866.chunk.css",
-    "static/js/2.640751d2.chunk.js": "/reseller/static/js/2.640751d2.chunk.js",
-    "static/js/2.640751d2.chunk.js.map": "/reseller/static/js/2.640751d2.chunk.js.map",
+    "static/js/2.9a78a94e.chunk.js": "/reseller/static/js/2.9a78a94e.chunk.js",
+    "static/js/2.9a78a94e.chunk.js.map": "/reseller/static/js/2.9a78a94e.chunk.js.map",
     "index.html": "/reseller/index.html",
-    "precache-manifest.e1b9d155e4ba9f74469965596c1f419c.js": "/reseller/precache-manifest.e1b9d155e4ba9f74469965596c1f419c.js",
+    "precache-manifest.52604c34a132fcb4f872cfa858d6ad50.js": "/reseller/precache-manifest.52604c34a132fcb4f872cfa858d6ad50.js",
     "service-worker.js": "/reseller/service-worker.js",
     "static/css/2.657a9866.chunk.css.map": "/reseller/static/css/2.657a9866.chunk.css.map",
-    "static/css/main.ea628ae5.chunk.css.map": "/reseller/static/css/main.ea628ae5.chunk.css.map",
-    "static/js/2.640751d2.chunk.js.LICENSE.txt": "/reseller/static/js/2.640751d2.chunk.js.LICENSE.txt",
+    "static/css/main.6afbc71f.chunk.css.map": "/reseller/static/css/main.6afbc71f.chunk.css.map",
+    "static/js/2.9a78a94e.chunk.js.LICENSE.txt": "/reseller/static/js/2.9a78a94e.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/reseller/static/media/Logo.e82b5693.png",
     "static/media/homeOffice.jpg": "/reseller/static/media/homeOffice.82a3fad5.jpg",
     "static/media/mesh.png": "/reseller/static/media/mesh.0f96f9d0.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.68945eaa.js",
     "static/css/2.657a9866.chunk.css",
-    "static/js/2.640751d2.chunk.js",
-    "static/css/main.ea628ae5.chunk.css",
-    "static/js/main.56841ede.chunk.js"
+    "static/js/2.9a78a94e.chunk.js",
+    "static/css/main.6afbc71f.chunk.css",
+    "static/js/main.f5a52b5c.chunk.js"
   ]
 }
